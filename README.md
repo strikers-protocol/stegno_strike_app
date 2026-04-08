@@ -4,7 +4,7 @@ The official standalone Windows executable for the Stegno_Strike cryptographic e
 
 # 🕵️‍♂️ STEGNO_STRIKE :: ECOSYSTEM
 
-<a href="https://github.com/strikers-protocol/stegno_strike_app"><img src="https://img.shields.io/badge/📥_DOWNLOAD_APP-00E5FF?style=for-the-badge&logoColor=black" alt="App"/></a>
+<a href="https://github.com/strikers-protocol/stegno_strike_app"><img src="https://img.shields.io/badge/📥_DOWNLOAD_APP-6200EA?style=for-the-badge" alt="App"/></a>
 <a href="https://github.com/strikers-protocol/stegno_strike_theory"><img src="https://img.shields.io/badge/📖_READ_THEORY-007ACC?style=for-the-badge&logoColor=white" alt="Theory"/></a>
 <a href="https://github.com/strikers-protocol/stegno_strike_core"><img src="https://img.shields.io/badge/💻_SOURCE_CODE-111111?style=for-the-badge&logoColor=white" alt="Code"/></a>
 
