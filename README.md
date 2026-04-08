@@ -35,10 +35,9 @@ This repository hosts the **official, standalone Windows executable** for the St
 This tool utilizes modern steganography and AES-256 military-grade ciphers.
 
 ### The Interface
+<img width="1920" height="1043" alt="screenshot" src="https://github.com/user-attachments/assets/1341cc19-1588-444f-af88-9d3e254c9b06" />
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x500/111111/00E5FF?text=STEGNO_STRIKE+UI+PREVIEW" alt="Stegno_Strike UI Mockup"/>
-</div>
+
 
 ### Basic Procedures
 
