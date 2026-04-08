@@ -4,9 +4,9 @@ The official standalone Windows executable for the Stegno_Strike cryptographic e
 
 # 🕵️‍♂️ STEGNO_STRIKE :: ECOSYSTEM
 
-<a href="https://github.com/YOUR_USERNAME/stegno_strike_app"><img src="https://img.shields.io/badge/📥_DOWNLOAD_APP-00E5FF?style=for-the-badge&logoColor=black" alt="App"/></a>
-<a href="https://github.com/YOUR_USERNAME/stegno_strike_theory"><img src="https://img.shields.io/badge/📖_READ_THEORY-007ACC?style=for-the-badge&logoColor=white" alt="Theory"/></a>
-<a href="https://github.com/YOUR_USERNAME/stegno_strike_core"><img src="https://img.shields.io/badge/💻_SOURCE_CODE-111111?style=for-the-badge&logoColor=white" alt="Code"/></a>
+<a href="https://github.com/strikers-protocol/stegno_strike_app"><img src="https://img.shields.io/badge/📥_DOWNLOAD_APP-00E5FF?style=for-the-badge&logoColor=black" alt="App"/></a>
+<a href="https://github.com/strikers-protocol/stegno_strike_theory"><img src="https://img.shields.io/badge/📖_READ_THEORY-007ACC?style=for-the-badge&logoColor=white" alt="Theory"/></a>
+<a href="https://github.com/strikers-protocol/stegno_strike_core"><img src="https://img.shields.io/badge/💻_SOURCE_CODE-111111?style=for-the-badge&logoColor=white" alt="Code"/></a>
 
 <br>
 <i>The operational front-end for the Strike Core steganography engine.</i>
@@ -37,6 +37,7 @@ This tool utilizes modern steganography and AES-256 military-grade ciphers.
 ### The Interface
 <img width="1920" height="1043" alt="screenshot" src="https://github.com/user-attachments/assets/1341cc19-1588-444f-af88-9d3e254c9b06" />
 
+<img width="952" height="737" alt="screenshot" src="https://github.com/user-attachments/assets/5cbf43ae-4e1e-41d6-9a70-c70dc64a7ac0" />
 
 
 ### Basic Procedures
